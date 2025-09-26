@@ -11,6 +11,14 @@ Grub background resolution 1920x1080
 
 ## Install:
 
+### Plasma 6
+cd into cloned repository and install with kpackagetool6:
+
+```
+kpackagetool6 --type Plasma/LookAndFeel --install org.1-3-3-7.YoRHa_Boot.splash
+```
+
+### Plasma 5
 cd into cloned repository and install with plasmapkg2:
 
 ```
